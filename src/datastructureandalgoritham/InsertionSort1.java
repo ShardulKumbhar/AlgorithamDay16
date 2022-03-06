@@ -47,7 +47,7 @@ public class InsertionSort1 {
 	 */
 	static public void printString(String[] strings) {
 		for (int i = 0; i < strings.length; i++) {
-			System.out.println("\nstring at index " + i + " is " + strings[i]);
+			System.out.println("string at index " + i + " is " + strings[i]);
 		}
 	}
 
